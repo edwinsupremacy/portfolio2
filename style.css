@@ -26,7 +26,6 @@
 body {
     background-color: orange;
    
-    scroll-behavior: smooth;
 }
 
 .links {
@@ -39,16 +38,16 @@ body {
 #About {
 
     text-align: center;
-    color: aliceblue;
+    color: white ;
 }
 
 h1 {
     /* text-align: center; */
-    color:white;
+    color:black;
 }
 
 #contact {
-    color: white;
+    color: black;
 
 } 
 
@@ -57,12 +56,12 @@ h2{
 
 }  
 p{
-    color: white;
+    color: black;
 }
 ul{
 
-    color: white;
+    color: black;
 }
 h2{
-    color: white;
+    color: black;
 }
