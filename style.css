@@ -1,0 +1,68 @@
+#portfolio {
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+   
+}
+
+#Myname {
+
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-size-adjust: 60px;
+    font-size: 40px;
+    /* background-color: orange; */
+    padding: 45px;
+    justify-content: flex-end;
+
+
+}
+
+.Heading {
+
+    background-color: black;
+}
+
+body {
+    background-image: url(/assets/image/image2.jpg);
+   
+    scroll-behavior: smooth;
+}
+
+.links {
+    text-decoration: none;
+    word-spacing: 1em;
+
+
+}
+
+#About {
+
+    text-align: center;
+    color: aliceblue;
+}
+
+h1 {
+    /* text-align: center; */
+    color:white;
+}
+
+#contact {
+    color: white;
+
+} 
+
+h2{
+/* text-align: center; */
+
+}  
+p{
+    color: white;
+}
+ul{
+
+    color: white;
+}
+h2{
+    color: white;
+}
